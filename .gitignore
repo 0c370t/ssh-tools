@@ -1,3 +1,8 @@
 nimcache/
 nimblecache/
 htmldocs/
+.env
+node_modules
+.crt
+.pem
+.idea
