@@ -3,6 +3,9 @@ nimblecache/
 htmldocs/
 .env
 node_modules
-.crt
-.pem
+*.crt
+*.pem
 .idea
+.parcel-cache
+bin/
+dist/
